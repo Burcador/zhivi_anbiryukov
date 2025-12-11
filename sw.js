@@ -2,6 +2,11 @@ const CACHE_NAME = 'zhivi-pwa-v1';
 const ASSETS = [
   './',
   './index.html',
+  './files/favicon-64.png',
+  './files/icon-192.png',
+  './files/icon-192.webp',
+  './files/icon-512.png',
+  './files/icon-512.webp',
   './files/Adam-Saunders-Mark-Cousins-An-Age-Of-Innocence-A_Klasha.opus',
   './files/alex-productions-ascend_Pickuper.opus',
   './files/alex-productions-lovely_Sonya.opus',
